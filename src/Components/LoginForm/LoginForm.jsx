@@ -84,3 +84,5 @@ const getStrengthClass = (score) => {
   }
 
 export default LoginForm
+
+
